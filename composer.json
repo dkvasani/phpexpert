@@ -2,5 +2,21 @@
     "name": "dkvasani/posibilty",
     "require": {
         "php": "^5.6 || ^7.0"
-     }
+     },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dharmesh",
+            "homepage": "http://www.dharmeshvasani.in",
+            "role": "Author"
+        },
+        {
+            "name": "Community",
+            "homepage": "https://github.com/dkvasani/phpexpert/graphs/contributors"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/dkvasani/phpexpert/issues",
+        "source": "https://github.com/dkvasani/phpexpert"
+    },
 }
