@@ -1,5 +1,5 @@
 {
-    "name": "dkvasani/posibilty",
+    "name": "dkvasani/phpexpert",
     "require": {
         "php": "^5.6 || ^7.0"
      },
