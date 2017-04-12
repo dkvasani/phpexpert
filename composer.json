@@ -1,0 +1,6 @@
+{
+    "name": "dkvasani/posibilty",
+    "require": {
+        "php": "^5.6 || ^7.0"
+     }
+}
